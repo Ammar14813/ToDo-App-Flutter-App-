@@ -1,5 +1,7 @@
 # todo_app
 
+## Mobile Application That Let Users Enter Tasks And Delete It When Need To Do That, Also Can Archive Tasks.
+
 A new Flutter project.
 
 ## Getting Started
